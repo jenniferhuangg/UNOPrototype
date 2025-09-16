@@ -1,4 +1,4 @@
-# 🎴 UNO — Java Prototype  
+# UNO — Java Prototype  
 
 A classic UNO card game implemented in **Java**.  
 Play against three bots with turn timers, action cards, and UNO button logic — all in a clean, responsive desktop UI.  
